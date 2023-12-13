@@ -1,0 +1,17 @@
+{
+    "constants":
+        {
+            "mass" : 2.5,
+            "k" : 2,
+            "b" : 0.3
+        }
+    ,
+    "initial_values":
+        {
+            "position" : 15,
+            "velocity" : 0,
+            "acceleration" : 0
+        },
+    "sample_prob" : 0.05
+
+}
